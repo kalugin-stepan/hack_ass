@@ -1,0 +1,6 @@
+.vscode
+bin
+build
+obj
+build_client.bat
+build_server.bat
